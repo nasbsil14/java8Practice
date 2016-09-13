@@ -31,6 +31,8 @@ public class Main {
         System.out.println("######## section6 ##########");
         final TargetPractice target5 = new section6.Practice1();
         target5.run();
+        final TargetPractice target5_2 = new section6.Practice2();
+        target5_2.run();
 
         System.out.println("END");
     }

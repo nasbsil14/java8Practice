@@ -9,4 +9,5 @@ public class Practice1 implements TargetPractice {
         Holder holder = new Holder();
         holder.getHeavy();
     }
+
 }
